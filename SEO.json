@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "garments-rmg-erp",
+  "description": "Garments & RMG ERP — Apparel Manufacturing Laravel Filament ERP/SaaS for Bangladesh (Gazipur). End-to-end garments ERP for merchandising, cutting, sewing line tracking, packing lists, and buyer compliance. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "apparel-manufacturing",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/garments-rmg-erp"
+}
